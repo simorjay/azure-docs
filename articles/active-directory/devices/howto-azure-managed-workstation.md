@@ -204,6 +204,9 @@ In the Azure portal:
 
 For more information about Windows Update policies, see [Policy CSP - Update](https://docs.microsoft.com/windows/client-management/mdm/policy-csp-update).
 
+> [!NOTE]
+> The **Service channel** recommends using **Windows Insider - Fast**, it's important to note that this reflect the latest and best technology released by Microsoft. At times this may introduce instability. For more stable, but secure updates it is recommended using the **Semi-Annual Channel**.
+
 ### Windows Defender ATP Intune integration
 
 Windows Defender ATP and Microsoft Intune work together to help prevent security breaches. They can also limit the impact of breaches. ATP capabilities provide real-time threat detection as well as enable extensive auditing and logging of the end-point devices.
